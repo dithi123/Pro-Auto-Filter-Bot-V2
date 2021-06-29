@@ -61,7 +61,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/Mo_TECH_YT"
+                                    '👨‍💼 SARE GROUP 👨‍💼', url="https://t.me/share/url?url=https://t.me/MOVIEZ_CORNER_GROUP_BY_MC_TEAM"
                                 )
                         ]
                     ]
@@ -80,7 +80,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/Mo_TECH_YT"
+                                    '👨‍💼 SHARE GROUP 👨‍💼', url="https://t.me/share/url?url=https://t.me/MOVIEZ_CORNER_GROUP_BY_MC_TEAM"
                                 )
                         ]
                     ]
@@ -99,7 +99,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/Mo_TECH_YT"
+                                    '👨‍💼 SHARE GROUP 👨‍💼', url="https://t.me/share/url?url=https://t.me/MOVIEZ_CORNER_GROUP_BY_MC_TEAM"
                                 )
                         ]
                     ]
